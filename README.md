@@ -1,8 +1,4 @@
-Aqui está uma proposta de **README.md** elegante e detalhada, projetada para refletir a estética minimalista e "espacial" do seu jogo **LUMINO**.
 
-O arquivo destaca as mecânicas únicas (como a geração determinística de fases) e as funcionalidades de debug incluídas no código.
-
------
 
 # 💡 LUMINO - Puzzle Diário
 
